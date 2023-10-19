@@ -91,44 +91,43 @@ Next, **you'll need to set up a local server**. For Windows users, WAMP is a gre
 
 #### WAMP (Windows)
 
-##### Step 1: Download WAMP Server
+**Step 1: Download WAMP Server**
 - Visit the [WAMP Server website](http://www.wampserver.com/en/) and select the version that's compatible with your Windows architecture (32-bit or 64-bit).
 
-##### Step 2: Install WAMP Server
+**Step 2: Install WAMP Server**
 - Open the downloaded file and follow the prompts. Choose your destination folder (default is `C:\wamp64`), and select your default browser if asked.
 
-##### Step 3: Check Server Status
+**Step 3: Check Server Status**
 - Launch WAMP. A green system tray icon indicates that all services are running.
 
-##### Step 4: Access Your Localhost
+**Step 4: Access Your Localhost**
 - Click the WAMP system tray icon and select 'localhost'. Your default browser will display the WAMP server landing page.
 
-##### Step 5: Place Your Application Files
+**Step 5: Place Your Application Files**
 - Navigate to the `www` directory inside your WAMP installation folder and create a new folder for your application's files.
 
-##### Step 6: Access Your Application
+**Step 6: Access Your Application**
 - In your browser, navigate to `http://localhost/codemapper`.
 
 #### MAMP (macOS)
 
-##### Step 1: Download MAMP
+**Step 1: Download MAMP**
 - Go to the [MAMP website](https://www.mamp.info/en/mamp/mac/) and download the free version.
 
-##### Step 2: Install MAMP
+**Step 2: Install MAMP**
 - Open the downloaded file and drag the MAMP folder (not MAMP PRO) to your Applications folder.
 
-##### Step 3: Launch MAMP
+**Step 3: Launch MAMP**
 - Open MAMP from your Applications folder and click 'Start Servers'. Green status lights indicate running services.
 
-##### Step 4: Access Your Localhost
+**Step 4: Access Your Localhost**
 - Click 'Open WebStart page' in MAMP. Your default browser will show the MAMP landing page.
 
-##### Step 5: Place Your Application Files
+**Step 5: Place Your Application Files**
 - Put your application files in the `MAMP/htdocs/` directory in your MAMP folder.
 
-##### Step 6: Access Your Application
+**Step 6: Access Your Application**
 - In your browser, navigate to `http://localhost:8888/codemapper`. MAMP uses port 8888 by default.
-
 
 ## Contributing
 
