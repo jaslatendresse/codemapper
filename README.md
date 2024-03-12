@@ -4,6 +4,19 @@ Code Mapper is an innovative tool designed to visualize the geographic distribut
 
 This repository hosts the source code for Code Mapper, including backend scripts, frontend assets, and the trained machine learning model used for geolocation predictions. **Please note that the actual data used by the live application is not provided in this repository due to the sensitive nature of the information (e.g., contributor's names and predicted locations)**.
 
+Our paper can be read here: https://das.encs.concordia.ca/pdf/letourneau2024code.pdf 
+
+Cite us!
+```
+@inproceedings{letourneau2024code,
+	author = {Le Tourneau, Thomas and Latendresse, Jasmine and Abdellatif, Ahmad and Shihab, Emad},
+	booktitle = {Proceedings of the 46th {ACM}/{IEEE} {International} {Conference} on {Software} {Engineering} ({ICSE}'24)},
+	year = {2024},
+	organization = {ACM/IEEE},
+	title = {Code {Mapper}: Mapping the {Global} {Contributions} of {OSS}},
+}
+```
+
 ## Live Application
 
 Access the live application at [https://codemapper.alwaysdata.net](https://codemapper.alwaysdata.net) to explore the geographic distribution of contributors across various GitHub repositories.
