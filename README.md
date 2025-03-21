@@ -19,7 +19,7 @@ Cite us!
 
 ## Live Application
 
-Access the live application at [https://codemapper.alwaysdata.net](https://codemapper.alwaysdata.net) to explore the geographic distribution of contributors across various GitHub repositories.
+Under construction. 
 
 ## Features
 
